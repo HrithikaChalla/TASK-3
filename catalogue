@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Catalogue</title>
+</head>
+<body>
+
+<h3>Product Catalogue</h3>
+
+<img src="images/product1.jpg" width="150">
+<p>Smart Watch</p>
+<p>Rs. 1999</p>
+
+<br>
+
+<img src="images/product2.jpg" width="150">
+<p>Wireless Earbuds</p>
+<p>Rs. 1499</p>
+
+</body>
+</html>
